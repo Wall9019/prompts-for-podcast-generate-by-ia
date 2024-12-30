@@ -52,11 +52,9 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 
 
 <div align="center">
-    <audio controls title="Podcast editado">
-        <source src="ElevenLabs_2024-12-30T03_38_29_Rachel_pre_s50_sb75_se0_b_m2.mp3" type="audio/mpeg">
-        Seu navegador não suporta a tag de áudio.
-    </audio>
-</div>
+    <a href="ElevenLabs_2024-12-30T03_38_29_Rachel_pre_s50_sb75_se0_b_m2.mp3" download>
+        <button>Baixar e Ouvir o Podcast</button>
+    </a>
 
 ## 📚 Materiais
 
